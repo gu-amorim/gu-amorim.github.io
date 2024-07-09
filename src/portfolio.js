@@ -8,7 +8,6 @@ const about = {
   role: 'Software Developer',
   description:
     'Passionate Software Developer with over 1.5 years of experience in developing web and mobile applications, as well as backend APIs. Skilled in writing clear, concise and maintainable code. Experienced in collaborating with small and large teams across multiple projects. Adaptable to work independently, remotely, or in office environments as needed.',
-  resume: 'https://gu-amorim.github.io/files/CV_GustavoAmorim.pdf',
   social: {
     linkedin: 'https://linkedin.com/in/guamorim',
     github: 'https://github.com/gu-amorim/',

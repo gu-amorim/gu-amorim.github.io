@@ -11,15 +11,7 @@ const Contact = () => {
       <div style={{ display: 'flex', gap: 14.4 }}>
         <a href={`mailto:${contact.email}`}>
           <span type='button' className='btn btn--outline'>
-            <div
-              style={{
-                display: 'flex',
-                flexDirection: 'column',
-                alignItems: 'center',
-              }}
-            >
-              <div>Email me</div>
-            </div>
+            Email me
           </span>
         </a>
       </div>
