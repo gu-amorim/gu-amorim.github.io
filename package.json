@@ -1,8 +1,8 @@
 {
+  "homepage": "https://gu-amorim.github.io/",
   "name": "portfolio",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://gu-amorim.github.io/",
   "dependencies": {
     "@material-ui/core": "^4.12.3",
     "@material-ui/icons": "^4.11.2",
@@ -24,6 +24,7 @@
     "eject": "react-scripts eject --openssl-legacy-provider",
     "lint": "eslint .",
     "format": "prettier --write \"**/*.+(js|jsx|json|css|md)\"",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
   "browserslist": {
