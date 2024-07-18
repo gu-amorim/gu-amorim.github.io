@@ -7,7 +7,7 @@ const about = {
   name: 'Gustavo Amorim',
   role: 'Software Developer',
   description:
-    'Passionate Software Developer with over 1.5 years of experience in developing web and mobile applications, as well as backend APIs. Skilled in writing clear, concise and maintainable code. Experienced in collaborating with small and large teams across multiple projects. Adaptable to work independently, remotely, or in office environments as needed.',
+    'Passionate Software Developer with over 1.5 years of experience in developing web and mobile applications, as well as backend APIs. Graduated with a Computer Science degree. Skilled in writing clear, concise and maintainable code. Experienced in collaborating with small and large teams across multiple projects. Adaptable to work independently, remotely, or in office environments as needed.',
   social: {
     linkedin: 'https://linkedin.com/in/guamorim',
     github: 'https://github.com/gu-amorim/',
