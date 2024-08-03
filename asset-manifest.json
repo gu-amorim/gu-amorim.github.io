@@ -1,14 +1,15 @@
 {
   "files": {
     "main.css": "/static/css/main.7fdc4bab.css",
-    "main.js": "/static/js/main.f025da45.js",
+    "main.js": "/static/js/main.0a613ae6.js",
+    "static/media/CV_GustavoAmorimPTBR.pdf": "/static/media/CV_GustavoAmorimPTBR.da46c7d3ac197ab1e5f8.pdf",
     "static/media/CV_GustavoAmorim.pdf": "/static/media/CV_GustavoAmorim.a657f255ebe01179c0ed.pdf",
     "index.html": "/index.html",
     "main.7fdc4bab.css.map": "/static/css/main.7fdc4bab.css.map",
-    "main.f025da45.js.map": "/static/js/main.f025da45.js.map"
+    "main.0a613ae6.js.map": "/static/js/main.0a613ae6.js.map"
   },
   "entrypoints": [
     "static/css/main.7fdc4bab.css",
-    "static/js/main.f025da45.js"
+    "static/js/main.0a613ae6.js"
   ]
 }
