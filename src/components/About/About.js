@@ -3,6 +3,7 @@ import LinkedInIcon from '@material-ui/icons/LinkedIn'
 import { about } from '../../portfolio'
 import './About.css'
 import resume from '../../files/CV_GustavoAmorim.pdf'
+import resumePTBR from '../../files/CV_GustavoAmorimPTBR.pdf'
 
 const About = () => {
   const { name, role, description, social } = about
@@ -25,6 +26,14 @@ const About = () => {
           <a href={resume} target='_blank' rel='noreferrer'>
             <span type='button' className='btn btn--outline'>
               Resume
+            </span>
+          </a>
+        )}
+
+        {resumePTBR && (
+          <a href={resumePTBR} target='_blank' rel='noreferrer'>
+            <span type='button' className='btn btn--outline'>
+              Resume (Portuguese)
             </span>
           </a>
         )}
