@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/static/css/main.7fdc4bab.css",
-    "main.js": "/static/js/main.0a613ae6.js",
-    "static/media/CV_GustavoAmorimPTBR.pdf": "/static/media/CV_GustavoAmorimPTBR.da46c7d3ac197ab1e5f8.pdf",
-    "static/media/CV_GustavoAmorim.pdf": "/static/media/CV_GustavoAmorim.a657f255ebe01179c0ed.pdf",
+    "main.js": "/static/js/main.d0367118.js",
+    "static/media/CV_PTBR_GustavoAmorim.pdf": "/static/media/CV_PTBR_GustavoAmorim.c9f8d8454b00e2a87a02.pdf",
+    "static/media/CV_ENG_GustavoAmorim.pdf": "/static/media/CV_ENG_GustavoAmorim.c0e09204321ef91d7dce.pdf",
     "index.html": "/index.html",
     "main.7fdc4bab.css.map": "/static/css/main.7fdc4bab.css.map",
-    "main.0a613ae6.js.map": "/static/js/main.0a613ae6.js.map"
+    "main.d0367118.js.map": "/static/js/main.d0367118.js.map"
   },
   "entrypoints": [
     "static/css/main.7fdc4bab.css",
-    "static/js/main.0a613ae6.js"
+    "static/js/main.d0367118.js"
   ]
 }
