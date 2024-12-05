@@ -7,7 +7,7 @@ const about = {
   name: 'Gustavo Amorim',
   role: 'Software Developer',
   description:
-    'Passionate Software Developer with over 1.5 years of experience in developing web and mobile applications, as well as backend APIs. Graduated with a Computer Science degree. Skilled in writing clear, concise and maintainable code. Experienced in collaborating with small and large teams across multiple projects. Adaptable to work independently, remotely, or in office environments as needed.',
+    'Passionate Software Developer with over 1.5 years of experience in developing web, mobile applications, and backend APIs. Graduated with a Computer Science degree. Specialized in writing clear, concise and maintainable code. Experienced in collaborating with teams of various sizes across multiple projects. Highly adaptable to work independently, remotely, or in office environments as needed.',
   social: {
     linkedin: 'https://linkedin.com/in/guamorim',
     github: 'https://github.com/gu-amorim/',
@@ -30,7 +30,7 @@ const projects = [
       'AWS',
     ],
     // sourceCode: 'https://github.com',
-    livePreview: 'https://web-acm.vercel.app',
+    // livePreview: 'https://web-acm.vercel.app',
   },
   {
     name: 'Plant Manager',
@@ -38,8 +38,8 @@ const projects = [
       "Plant Manager is an APP I developed for Rocketseat's 5th Next Level Week. In summary, this is an auxiliary app that helps users water their plants correctly. You register your plant in the app, and the app tells you how often that type of plant needs to be watered, which environments it best adapts to, and allows you to set alarms so you don't forget about them.",
     stack: ['TypeScript', 'ReactNative'],
     sourceCode: 'https://github.com/gu-amorim/plantmanager',
-    livePreview:
-      'https://www.figma.com/file/IhQRtrOZdu3TrvkPYREzOy/PlantManager/duplicate?node-id=0%3A1',
+    // livePreview:
+    //   'https://www.figma.com/file/IhQRtrOZdu3TrvkPYREzOy/PlantManager/duplicate?node-id=0%3A1',
   },
   {
     name: 'Podcaster',
